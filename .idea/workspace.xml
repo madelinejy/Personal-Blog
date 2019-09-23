@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54b15acb-832b-499f-9a61-f2d6c0d7fc52" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+>>>>>>> Add portfolio.html page
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,17 +20,23 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="333">
               <caret line="85" column="7" lean-forward="true" selection-end-line="85" selection-end-column="7" />
 =======
             <state relative-caret-position="220">
               <caret line="22" column="6" selection-end-line="85" selection-end-column="7" />
 >>>>>>> Add contact.html page
+=======
+            <state relative-caret-position="259">
+              <caret line="20" column="50" selection-end-line="85" selection-end-column="7" />
+>>>>>>> Add portfolio.html page
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
 <<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -39,6 +48,12 @@
             <state relative-caret-position="414">
               <caret line="41" column="15" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
 >>>>>>> Add contact.html page
+=======
+        <entry file="file://$PROJECT_DIR$/portfolio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="73" column="15" selection-start-line="73" selection-start-column="15" selection-end-line="73" selection-end-column="15" />
+>>>>>>> Add portfolio.html page
             </state>
           </provider>
         </entry>
@@ -74,10 +89,14 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/index.html" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/about.html" />
 =======
         <option value="$PROJECT_DIR$/contact.html" />
 >>>>>>> Add contact.html page
+=======
+        <option value="$PROJECT_DIR$/portfolio.html" />
+>>>>>>> Add portfolio.html page
       </list>
     </option>
   </component>
@@ -104,6 +123,7 @@
               <item name="git-blog" type="462c0819:PsiDirectoryNode" />
             </path>
 <<<<<<< HEAD
+<<<<<<< HEAD
             <path>
               <item name="git-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="git-blog" type="462c0819:PsiDirectoryNode" />
@@ -117,6 +137,8 @@
             </path>
 =======
 >>>>>>> Add contact.html page
+=======
+>>>>>>> Add portfolio.html page
           </expand>
           <select />
         </subPane>
@@ -167,20 +189,28 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="5312000" />
 =======
     <option name="totallyTimeSpent" value="4987000" />
 >>>>>>> Add contact.html page
+=======
+    <option name="totallyTimeSpent" value="4691000" />
+>>>>>>> Add portfolio.html page
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.025694445" />
 =======
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.04178273" />
 >>>>>>> Add contact.html page
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.020833334" />
+>>>>>>> Add portfolio.html page
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -194,10 +224,14 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.03508772" />
 =======
       <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31812865" />
 >>>>>>> Add contact.html page
+=======
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31812865" />
+>>>>>>> Add portfolio.html page
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -215,6 +249,7 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/assets/about.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -227,6 +262,8 @@
     </entry>
 =======
 >>>>>>> Add contact.html page
+=======
+>>>>>>> Add portfolio.html page
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="86">
@@ -261,6 +298,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="220">
           <caret line="22" column="6" selection-end-line="85" selection-end-column="7" />
         </state>
@@ -271,6 +309,17 @@
         <state relative-caret-position="414">
           <caret line="41" column="15" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
 >>>>>>> Add contact.html page
+=======
+        <state relative-caret-position="259">
+          <caret line="20" column="50" selection-end-line="85" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="73" column="15" selection-start-line="73" selection-start-column="15" selection-end-line="73" selection-end-column="15" />
+>>>>>>> Add portfolio.html page
         </state>
       </provider>
     </entry>
